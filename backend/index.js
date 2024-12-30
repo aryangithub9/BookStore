@@ -1,5 +1,5 @@
 import express from 'express';
-import cors from 'cors'
+import cors from 'cors';
 import dotenv from 'dotenv'; 
 import router from './routes/Book.Routes.js';
 dotenv.config();
